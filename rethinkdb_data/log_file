@@ -1,0 +1,169 @@
+2021-01-15T09:57:01.981211578 0.067544s notice: Recursively removing directory /home/vincysuper07/imgen/rethinkdb_data/tmp
+2021-01-15T09:57:02.001108481 0.087443s notice: Initializing directory /home/vincysuper07/imgen/rethinkdb_data
+2021-01-15T09:57:02.001188373 0.087519s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/vincysuper07/imgen/rethinkdb_data' did not already exist or is empty.)
+2021-01-15T09:57:02.001205051 0.087536s notice: Running rethinkdb 2.4.1~0buster (CLANG 7.0.1 (tags/RELEASE_701/final))...
+2021-01-15T09:57:02.004007732 0.090341s notice: Running on Linux 4.19.0-13-amd64 x86_64
+2021-01-15T09:57:02.004069302 0.090400s notice: Loading data from directory /home/vincysuper07/imgen/rethinkdb_data
+2021-01-15T09:57:02.202628919 0.288962s info: Automatically using cache size of 14598 MB
+2021-01-15T09:57:02.203066094 0.289397s notice: Listening for intracluster connections on port 29015
+2021-01-15T09:57:02.203944395 0.290275s notice: Listening for client driver connections on port 28015
+2021-01-15T09:57:02.311026443 0.397358s error: Could not bind to http port: The address at localhost:8080 is reserved or already in use.
+2021-01-15T10:43:37.215001627 0.048945s notice: Running rethinkdb 2.4.1~0buster (CLANG 7.0.1 (tags/RELEASE_701/final))...
+2021-01-15T10:43:37.218908284 0.052852s notice: Running on Linux 4.19.0-13-amd64 x86_64
+2021-01-15T10:43:37.218996907 0.052937s notice: Loading data from directory /home/vincysuper07/imgen/rethinkdb_data
+2021-01-15T10:43:37.284923841 0.118865s info: Automatically using cache size of 14532 MB
+2021-01-15T10:43:37.285289346 0.119229s notice: Listening for intracluster connections on port 29015
+2021-01-15T10:43:37.286185074 0.120125s notice: Listening for client driver connections on port 28015
+2021-01-15T10:43:37.365815772 0.199756s error: Could not bind to http port: The address at localhost:8080 is reserved or already in use.
+2021-01-15T10:44:22.949407862 0.021015s notice: Running rethinkdb 2.4.1~0buster (CLANG 7.0.1 (tags/RELEASE_701/final))...
+2021-01-15T10:44:22.952720534 0.024327s notice: Running on Linux 4.19.0-13-amd64 x86_64
+2021-01-15T10:44:22.952788419 0.024392s notice: Loading data from directory /home/vincysuper07/imgen/rethinkdb_data
+2021-01-15T10:44:23.065377627 0.136986s info: Automatically using cache size of 14532 MB
+2021-01-15T10:44:23.066685588 0.138290s notice: Listening for intracluster connections on port 29015
+2021-01-15T10:44:23.068598711 0.140203s notice: Listening for client driver connections on port 28015
+2021-01-15T10:44:23.150147556 0.221752s error: Could not bind to http port: The address at localhost:28015 is reserved or already in use.
+2021-01-15T10:44:50.428245285 0.052815s notice: Running rethinkdb 2.4.1~0buster (CLANG 7.0.1 (tags/RELEASE_701/final))...
+2021-01-15T10:44:50.431831045 0.056400s notice: Running on Linux 4.19.0-13-amd64 x86_64
+2021-01-15T10:44:50.431898100 0.056465s notice: Loading data from directory /home/vincysuper07/imgen/rethinkdb_data
+2021-01-15T10:44:50.501972984 0.126542s info: Automatically using cache size of 14531 MB
+2021-01-15T10:44:50.502884169 0.127451s notice: Listening for intracluster connections on port 29015
+2021-01-15T10:44:50.504520647 0.129087s notice: Listening for client driver connections on port 28015
+2021-01-15T10:44:50.588545720 0.213113s error: Could not bind to http port: The address at localhost:28015 is reserved or already in use.
+2021-01-15T10:45:42.087481910 0.047702s notice: Running rethinkdb 2.4.1~0buster (CLANG 7.0.1 (tags/RELEASE_701/final))...
+2021-01-15T10:45:42.091505390 0.051725s notice: Running on Linux 4.19.0-13-amd64 x86_64
+2021-01-15T10:45:42.091586324 0.051803s notice: Loading data from directory /home/vincysuper07/imgen/rethinkdb_data
+2021-01-15T10:45:42.158654336 0.118873s info: Automatically using cache size of 14531 MB
+2021-01-15T10:45:42.159108951 0.119326s notice: Listening for intracluster connections on port 29015
+2021-01-15T10:45:42.160175845 0.120393s notice: Listening for client driver connections on port 28015
+2021-01-15T10:45:42.231151001 0.191369s error: Could not bind to http port: The address at localhost:28015 is reserved or already in use.
+2021-01-15T10:45:47.939266919 0.052166s notice: Running rethinkdb 2.4.1~0buster (CLANG 7.0.1 (tags/RELEASE_701/final))...
+2021-01-15T10:45:47.943567818 0.056467s notice: Running on Linux 4.19.0-13-amd64 x86_64
+2021-01-15T10:45:47.943658981 0.056554s notice: Loading data from directory /home/vincysuper07/imgen/rethinkdb_data
+2021-01-15T10:45:47.999416316 0.112313s info: Automatically using cache size of 14532 MB
+2021-01-15T10:45:48.000014150 0.112909s notice: Listening for intracluster connections on port 29015
+2021-01-15T10:45:48.001181361 0.114076s notice: Listening for client driver connections on port 28015
+2021-01-15T10:45:48.001256433 0.114151s notice: Listening for administrative HTTP connections on port 22222
+2021-01-15T10:45:48.001259201 0.114154s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2021-01-15T10:45:48.001261513 0.114156s notice: Listening on driver addresses: 127.0.0.1, ::1
+2021-01-15T10:45:48.001265895 0.114161s notice: Listening on http addresses: 127.0.0.1, ::1
+2021-01-15T10:45:48.001269859 0.114165s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2021-01-15T10:45:48.001273897 0.114169s notice: Server ready, "srv1_ergserver_gq_rvb" 2a4f60d2-f705-4379-8801-0f36866cb7d7
+2021-01-15T10:45:52.601343966 4.714240s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2021-01-15T10:45:52.601517403 4.714412s notice: Shutting down client connections...
+2021-01-15T10:45:52.601600337 4.714495s notice: All client connections closed.
+2021-01-15T10:45:52.601604937 4.714500s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2021-01-15T10:45:52.601933495 4.714829s notice: Storage engine shut down.
+2021-01-15T10:45:56.847938870 0.047820s notice: Running rethinkdb 2.4.1~0buster (CLANG 7.0.1 (tags/RELEASE_701/final))...
+2021-01-15T10:45:56.851639170 0.051520s notice: Running on Linux 4.19.0-13-amd64 x86_64
+2021-01-15T10:45:56.851717734 0.051595s notice: Loading data from directory /home/vincysuper07/imgen/rethinkdb_data
+2021-01-15T10:45:56.921704375 0.121584s info: Automatically using cache size of 14532 MB
+2021-01-15T10:45:56.922335049 0.122212s notice: Listening for intracluster connections on port 29015
+2021-01-15T10:45:56.924101024 0.123978s notice: Listening for client driver connections on port 28015
+2021-01-15T10:45:57.009060083 0.208938s error: Could not bind to http port: The address at localhost:28015 is reserved or already in use.
+2021-01-15T10:46:06.905899491 0.048385s notice: Running rethinkdb 2.4.1~0buster (CLANG 7.0.1 (tags/RELEASE_701/final))...
+2021-01-15T10:46:06.909879431 0.052364s notice: Running on Linux 4.19.0-13-amd64 x86_64
+2021-01-15T10:46:06.909946428 0.052428s notice: Loading data from directory /home/vincysuper07/imgen/rethinkdb_data
+2021-01-15T10:46:06.978062547 0.120546s info: Automatically using cache size of 14532 MB
+2021-01-15T10:46:06.978663100 0.121145s notice: Listening for intracluster connections on port 29015
+2021-01-15T10:46:06.981107833 0.123589s notice: Listening for client driver connections on port 28015
+2021-01-15T10:46:06.981201519 0.123683s notice: Listening for administrative HTTP connections on port 28012
+2021-01-15T10:46:06.981205186 0.123687s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2021-01-15T10:46:06.981208373 0.123690s notice: Listening on driver addresses: 127.0.0.1, ::1
+2021-01-15T10:46:06.981214133 0.123696s notice: Listening on http addresses: 127.0.0.1, ::1
+2021-01-15T10:46:06.981219768 0.123701s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2021-01-15T10:46:06.981225388 0.123707s notice: Server ready, "srv1_ergserver_gq_rvb" 2a4f60d2-f705-4379-8801-0f36866cb7d7
+2021-01-15T10:46:10.466360803 3.608843s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2021-01-15T10:46:10.466511913 3.608994s notice: Shutting down client connections...
+2021-01-15T10:46:10.466582510 3.609064s notice: All client connections closed.
+2021-01-15T10:46:10.466587049 3.609069s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2021-01-15T10:46:10.467007711 3.609489s notice: Storage engine shut down.
+2021-01-15T10:46:31.035224476 0.056502s notice: Running rethinkdb 2.4.1~0buster (CLANG 7.0.1 (tags/RELEASE_701/final))...
+2021-01-15T10:46:31.038746619 0.060023s notice: Running on Linux 4.19.0-13-amd64 x86_64
+2021-01-15T10:46:31.038823065 0.060097s notice: Loading data from directory /home/vincysuper07/imgen/rethinkdb_data
+2021-01-15T10:46:31.105982880 0.127260s info: Automatically using cache size of 14531 MB
+2021-01-15T10:46:31.107150453 0.128424s notice: Listening for intracluster connections on port 29015
+2021-01-15T10:46:31.109283162 0.130557s notice: Listening for client driver connections on port 28015
+2021-01-15T10:46:31.109414096 0.130688s notice: Listening for administrative HTTP connections on port 28012
+2021-01-15T10:46:31.109419780 0.130693s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2021-01-15T10:46:31.109424794 0.130698s notice: Listening on driver addresses: 127.0.0.1, ::1
+2021-01-15T10:46:31.109434486 0.130708s notice: Listening on http addresses: 127.0.0.1, ::1
+2021-01-15T10:46:31.109443464 0.130717s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2021-01-15T10:46:31.109451862 0.130725s notice: Server ready, "srv1_ergserver_gq_rvb" 2a4f60d2-f705-4379-8801-0f36866cb7d7
+2021-01-15T10:53:13.148597613 402.169872s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2021-01-15T10:53:13.148765062 402.170039s notice: Shutting down client connections...
+2021-01-15T10:53:13.148870637 402.170144s notice: All client connections closed.
+2021-01-15T10:53:13.148875693 402.170149s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2021-01-15T10:53:13.149303351 402.170577s notice: Storage engine shut down.
+2021-01-15T10:53:24.557856383 0.051401s notice: Running rethinkdb 2.4.1~0buster (CLANG 7.0.1 (tags/RELEASE_701/final))...
+2021-01-15T10:53:24.560717971 0.054262s notice: Running on Linux 4.19.0-13-amd64 x86_64
+2021-01-15T10:53:24.560762189 0.054305s notice: Loading data from directory /home/vincysuper07/imgen/rethinkdb_data
+2021-01-15T10:53:24.630500888 0.124046s info: Automatically using cache size of 14529 MB
+2021-01-15T10:53:24.631573788 0.125117s notice: Listening for intracluster connections on port 29015
+2021-01-15T10:53:24.633194469 0.126737s notice: Listening for client driver connections on port 28015
+2021-01-15T10:53:24.633262016 0.126805s notice: Listening for administrative HTTP connections on port 28012
+2021-01-15T10:53:24.633264776 0.126807s notice: Listening on cluster addresses: 127.0.0.1, 213.133.110.62, ::1, 2a01:4f8:222:1703::2, fe80::d63d:7eff:fef8:ed71%2
+2021-01-15T10:53:24.633269494 0.126812s notice: Listening on driver addresses: 127.0.0.1, 213.133.110.62, ::1, 2a01:4f8:222:1703::2, fe80::d63d:7eff:fef8:ed71%2
+2021-01-15T10:53:24.633273979 0.126816s notice: Listening on http addresses: 127.0.0.1, 213.133.110.62, ::1, 2a01:4f8:222:1703::2, fe80::d63d:7eff:fef8:ed71%2
+2021-01-15T10:53:24.633278183 0.126821s notice: Server ready, "srv1_ergserver_gq_rvb" 2a4f60d2-f705-4379-8801-0f36866cb7d7
+2021-01-15T10:54:34.549285635 70.042829s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2021-01-15T10:54:34.549413530 70.042956s notice: Shutting down client connections...
+2021-01-15T10:54:34.549469511 70.043012s notice: All client connections closed.
+2021-01-15T10:54:34.549473050 70.043016s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2021-01-15T10:54:34.549792613 70.043335s notice: Storage engine shut down.
+2021-01-15T10:55:39.913196421 0.071328s notice: Running rethinkdb 2.4.1~0buster (CLANG 7.0.1 (tags/RELEASE_701/final))...
+2021-01-15T10:55:39.917545017 0.075676s notice: Running on Linux 4.19.0-13-amd64 x86_64
+2021-01-15T10:55:39.917603641 0.075732s notice: Loading data from directory /home/vincysuper07/imgen/rethinkdb_data
+2021-01-15T10:55:40.010075381 0.168206s info: Automatically using cache size of 14527 MB
+2021-01-15T10:55:40.011040201 0.169169s notice: Listening for intracluster connections on port 29015
+2021-01-15T10:55:40.013048735 0.171177s notice: Listening for client driver connections on port 28015
+2021-01-15T10:55:40.013156400 0.171285s notice: Listening for administrative HTTP connections on port 28012
+2021-01-15T10:55:40.013160566 0.171289s notice: Listening on cluster addresses: 127.0.0.1, 213.133.110.62, ::1, 2a01:4f8:222:1703::2, fe80::d63d:7eff:fef8:ed71%2
+2021-01-15T10:55:40.013168231 0.171296s notice: Listening on driver addresses: 127.0.0.1, 213.133.110.62, ::1, 2a01:4f8:222:1703::2, fe80::d63d:7eff:fef8:ed71%2
+2021-01-15T10:55:40.013175502 0.171304s notice: Listening on http addresses: 127.0.0.1, 213.133.110.62, ::1, 2a01:4f8:222:1703::2, fe80::d63d:7eff:fef8:ed71%2
+2021-01-15T10:55:40.013182209 0.171310s notice: Server ready, "srv1_ergserver_gq_rvb" 2a4f60d2-f705-4379-8801-0f36866cb7d7
+2021-01-15T11:35:01.771093065 2361.929222s info: Table 4df0def3-9ef9-4746-bf33-a44037549b26: Starting a new Raft election for term 1.
+2021-01-15T11:35:01.771497513 2361.929626s info: Table 4df0def3-9ef9-4746-bf33-a44037549b26: Added replica on this server.
+2021-01-15T11:35:01.814019319 2361.972148s info: Table 4df0def3-9ef9-4746-bf33-a44037549b26: This server is Raft leader for term 1. Latest log index is 0.
+2021-01-15T11:35:03.013716047 2363.171845s info: Table 0a779fc9-60e3-46b2-b3c4-325451057477: Starting a new Raft election for term 1.
+2021-01-15T11:35:03.014039326 2363.172168s info: Table 0a779fc9-60e3-46b2-b3c4-325451057477: Added replica on this server.
+2021-01-15T11:35:03.055575490 2363.213704s info: Table 0a779fc9-60e3-46b2-b3c4-325451057477: This server is Raft leader for term 1. Latest log index is 0.
+2021-01-15T18:04:43.284190810 25743.442319s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2021-01-15T18:04:43.284287831 25743.442416s notice: Shutting down client connections...
+2021-01-15T18:04:43.284383909 25743.442512s notice: All client connections closed.
+2021-01-15T18:04:43.284387880 25743.442516s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2021-01-15T18:04:43.287961405 25743.446090s notice: Storage engine shut down.
+2021-01-15T18:10:26.012691866 0.064070s notice: Running rethinkdb 2.4.1~0buster (CLANG 7.0.1 (tags/RELEASE_701/final))...
+2021-01-15T18:10:26.016200161 0.067577s notice: Running on Linux 4.19.0-13-amd64 x86_64
+2021-01-15T18:10:26.016270511 0.067645s notice: Loading data from directory /home/vincysuper07/imgen/rethinkdb_data
+2021-01-15T18:10:26.094786693 0.146163s info: Automatically using cache size of 14379 MB
+2021-01-15T18:10:26.095597067 0.146971s notice: Listening for intracluster connections on port 29015
+2021-01-15T18:10:26.137770182 0.189145s notice: Listening for client driver connections on port 28015
+2021-01-15T18:10:26.137829723 0.189204s notice: Listening for administrative HTTP connections on port 28012
+2021-01-15T18:10:26.137843832 0.189218s notice: Listening on cluster addresses: 127.0.0.1, 213.133.110.62, ::1, 2a01:4f8:222:1703::2, fe80::d63d:7eff:fef8:ed71%2
+2021-01-15T18:10:26.137846391 0.189220s notice: Listening on driver addresses: 127.0.0.1, 213.133.110.62, ::1, 2a01:4f8:222:1703::2, fe80::d63d:7eff:fef8:ed71%2
+2021-01-15T18:10:26.137848628 0.189223s notice: Listening on http addresses: 127.0.0.1, 213.133.110.62, ::1, 2a01:4f8:222:1703::2, fe80::d63d:7eff:fef8:ed71%2
+2021-01-15T18:10:26.137850835 0.189225s notice: Server ready, "srv1_ergserver_gq_rvb" 2a4f60d2-f705-4379-8801-0f36866cb7d7
+2021-01-15T18:10:27.247294870 1.298669s info: Table 0a779fc9-60e3-46b2-b3c4-325451057477: Starting a new Raft election for term 2.
+2021-01-15T18:10:27.306264274 1.357639s info: Table 0a779fc9-60e3-46b2-b3c4-325451057477: This server is Raft leader for term 2. Latest log index is 3.
+2021-01-15T18:10:27.935994699 1.987369s info: Table 4df0def3-9ef9-4746-bf33-a44037549b26: Starting a new Raft election for term 2.
+2021-01-15T18:10:28.112468696 2.163843s info: Table 4df0def3-9ef9-4746-bf33-a44037549b26: This server is Raft leader for term 2. Latest log index is 3.
+2021-01-15T18:11:13.903912294 47.955287s notice: Server got SIGINT from pid 1195, uid 1001; shutting down...
+2021-01-15T18:11:13.903994523 47.955369s notice: Shutting down client connections...
+2021-01-15T18:11:13.904027729 47.955402s notice: All client connections closed.
+2021-01-15T18:11:13.904030164 47.955404s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2021-01-15T18:11:13.907106883 47.958481s notice: Storage engine shut down.
+2021-01-15T18:11:14.047208643 0.026152s notice: Running rethinkdb 2.4.1~0buster (CLANG 7.0.1 (tags/RELEASE_701/final))...
+2021-01-15T18:11:14.050030502 0.028974s notice: Running on Linux 4.19.0-13-amd64 x86_64
+2021-01-15T18:11:14.050074432 0.029016s notice: Loading data from directory /home/vincysuper07/imgen/rethinkdb_data
+2021-01-15T18:11:14.171687006 0.150630s info: Automatically using cache size of 14363 MB
+2021-01-15T18:11:14.172349829 0.151291s notice: Listening for intracluster connections on port 29015
+2021-01-15T18:11:14.209078039 0.188020s notice: Listening for client driver connections on port 28015
+2021-01-15T18:11:14.209152122 0.188094s notice: Listening for administrative HTTP connections on port 28012
+2021-01-15T18:11:14.209154861 0.188096s notice: Listening on cluster addresses: 127.0.0.1, 213.133.110.62, ::1, 2a01:4f8:222:1703::2, fe80::d63d:7eff:fef8:ed71%2
+2021-01-15T18:11:14.209157389 0.188099s notice: Listening on driver addresses: 127.0.0.1, 213.133.110.62, ::1, 2a01:4f8:222:1703::2, fe80::d63d:7eff:fef8:ed71%2
+2021-01-15T18:11:14.209159501 0.188101s notice: Listening on http addresses: 127.0.0.1, 213.133.110.62, ::1, 2a01:4f8:222:1703::2, fe80::d63d:7eff:fef8:ed71%2
+2021-01-15T18:11:14.209161837 0.188103s notice: Server ready, "srv1_ergserver_gq_rvb" 2a4f60d2-f705-4379-8801-0f36866cb7d7
+2021-01-15T18:11:15.704264671 1.683206s info: Table 0a779fc9-60e3-46b2-b3c4-325451057477: Starting a new Raft election for term 3.
+2021-01-15T18:11:15.766785976 1.745728s info: Table 0a779fc9-60e3-46b2-b3c4-325451057477: This server is Raft leader for term 3. Latest log index is 7.
+2021-01-15T18:11:16.199146577 2.178088s info: Table 4df0def3-9ef9-4746-bf33-a44037549b26: Starting a new Raft election for term 3.
+2021-01-15T18:11:16.548376236 2.527318s info: Table 4df0def3-9ef9-4746-bf33-a44037549b26: This server is Raft leader for term 3. Latest log index is 7.

@@ -1,0 +1,12 @@
+{
+	"apps": [
+		{
+			"name": "imgen",
+			"script": "./start.sh"
+		},
+		{
+                        "name": "rethinkdb",
+                        "script": "rethinkdb --http-port 28012 --bind all"
+                }
+	]
+}

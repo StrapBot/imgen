@@ -1,2 +1,2 @@
 #!/bin/bash
-gunicorn -w 24 -b 127.0.0.1:65535 -k gevent server:app
+gunicorn3 -w 24 -b 0.0.0.0:65535 -k gevent server:app

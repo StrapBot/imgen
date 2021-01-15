@@ -52,6 +52,11 @@ def init_app():
     gc_thread.start()
     g.gc_loop = gc_loop
 
+
+    #r.db_create("imgen").run(get_db())
+    #db = r.db("imgen")
+    #db.table_create("keys").run(get_db())
+    #db.table_create("applications").run(get_db())
     from utils.endpoint import endpoints as endpnts
     global endpoints
     endpoints = endpnts
@@ -170,4 +175,4 @@ def api(endpoint):
 
 
 if __name__ == '__main__':
-    app.run(debug=False, use_reloader=False)
+    app.run(host="0.0.0.0", debug=False, use_reloader=False)
