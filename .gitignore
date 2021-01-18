@@ -105,3 +105,4 @@ config.json
 
 .idea/
 rethinkdb_data/
+.vscode/
